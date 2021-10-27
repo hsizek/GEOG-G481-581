@@ -6,5 +6,12 @@ EXTRA: if you would like analyse some additional DA experimental results to bett
 
 You can find the powerpoint presentation, the experiment results you need to analyze and the problem sheet word document in this directory on the GitHub Course Page: https://github.com/nmacbean/GEOG-G481-581/tree/master/In-Class_Exercises/Exercise_4_Data_Assimilation
 
+# Notes on Exercise 4 and Class Discusion
 
+Data Assimilation/Model-Data Fusion
+    Bayes's Theorem based
 
+    Model equifinality - multiple optima based on correlated parameters.
+
+        Gradient decent models -> Gradual changes, comparing normal distributions, and taking derivative values, Evolvability optimization, where stuff is going down.
+        Genetic Algorithms and Metropolis Hastings
